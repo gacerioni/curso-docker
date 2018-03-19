@@ -1,0 +1,23 @@
+{
+    "Config": {
+        "Version": "00.03-rc1",
+        "Chunk Type": 1,
+        "Chunk Size": 1048576
+    },
+    "Current Version": "v1",
+    "Num Files": 1,
+    "Entry List": [
+        {
+            "Name": "alisson1",
+            "Prefix": "",
+            "IsDir": true,
+            "Stat": {
+                "Mode": 2147484141,
+                "Size": 4096,
+                "Uid": 0,
+                "Gid": 0
+            },
+            "Number of Chunks": 1
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+version: "3"
+services:
+  web:
+    ports:
+     - "8080:8080"
+    image: python-app
+    volumes:
+     - imagens:/srv/python-openshit/static/imagens
+
+volumes:
+  imagens:
+  
